@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: todo-delete-tasks-api
-        image: todo-delete-tasks-api:v1
+        image: santandevops01012025/todo-delete-tasks-api:v1
         ports:
         - containerPort: 8000
         env: 
